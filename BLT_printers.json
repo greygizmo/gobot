@@ -1,0 +1,2529 @@
+[
+    {
+      "model_name": "BLT-S210",
+      "stock_code": "688333.SH",
+      "tagline": "Brilliant Research Tool for R&D Users",
+      "keywords": ["BLT-S210", "S210", "research printer", "small format", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "R&D tool"],
+      "key_features": [
+        {
+          "icon_description": "High-end Core Components",
+          "detailed_description": "Stable & reliable From international brands",
+          "benefit": "Ensures consistent performance and reliability using globally sourced, high-quality parts."
+        },
+        {
+          "icon_description": "Intelligence Software",
+          "detailed_description": "Real-time and traceable monitoring",
+          "benefit": "Provides detailed build data and process monitoring for quality control and process optimization."
+        },
+        {
+          "icon_description": "Modular Design",
+          "detailed_description": "Open Layout More convenient operation and maintenance",
+          "benefit": "Facilitates easy access for material changes, maintenance, and research modifications."
+        },
+        {
+          "icon_description": "All Process Parameters are Open",
+          "detailed_description": "294 parameters Can be edited",
+          "benefit": "Offers extensive control over printing parameters for advanced research and material development."
+        },
+        {
+          "icon_description": "Multiple Safety Interlocking",
+          "detailed_description": "Safety guarantee for human & machine",
+          "benefit": "Prioritizes safety with multiple interlocking systems to protect operators and equipment."
+        },
+        {
+          "icon_description": "The Oxygen Content can be Controlled Below 10ppm",
+          "detailed_description": "More materials can be formed",
+          "benefit": "Enables printing of reactive materials by maintaining a low oxygen environment."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Titanium Alloy",
+            "Aluminum Alloy",
+            "Copper Alloy",
+            "Magnesium Alloy",
+            "Tantalum",
+            "Silver"
+          ],
+          "superalloys": [
+            "Superalloy",
+            "Cobalt Chromium Alloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ],
+          "other_alloys": [
+            "Tungsten Alloy"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 105,
+          "depth_mm": 105,
+          "height_mm": 200,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 2205,
+        "laser_power": {
+          "value": 500,
+          "unit": "W"
+        },
+        "num_lasers": 1,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "building_speed": {
+          "value": 15,
+          "unit": "cm³/h"
+        },
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 350,
+          "unit": "°C",
+          "base": "RT (Room Temperature)"
+        },
+        "beam_quality": "M² < 1.1",
+        "optics_system": "F-theta Lens",
+        "recoating": "Single Variable Speed Recoating System",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm"
+        },
+        "gas_requirement": "Ar/N₂",
+        "power_requirement": {
+          "max_kw": 5,
+          "unit": "kW"
+        },
+        "supply_voltage": "AC220V 1Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 1300,
+          "depth_mm": 1000,
+          "height_mm": 1850,
+          "unit": "mm"
+        },
+        "tri_color_indicator_height": {
+          "value": 380,
+          "unit": "mm",
+          "approximate": true
+        },
+        "machine_weight": {
+          "value": 900,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Titanium Alloy Flexible Structure"
+        },
+        {
+          "application_name": "Magnesium Alloy Porous Orthopedic Implant (Exhibit)"
+        },
+        {
+          "application_name": "Co-Cr-Mo Alloy Femoral Condyle (Exhibit)"
+        },
+        {
+          "application_name": "Bronze He Zun"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Real-time Status Monitoring",
+            "Process Data Traceability"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "Smaller Research Platform Module",
+            "Recoating Detection",
+            "3D Reconstruction",
+            "Laser Power Upgrade Solution"
+          ]
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate",
+          "Filter Element"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum",
+            "Copper",
+            "Magnesium",
+            "Silver",
+            "Tantalum",
+            "Titanium",
+            "Tungsten"
+          ],
+          "superalloys": [
+            "Cobalt Chromium Alloy",
+            "Superalloy"
+          ],
+          "steels": [
+            "High-strength Steel",
+            "Stainless Steel",
+            "Tool Steel"
+          ]
+        }
+      },
+      "universities_who_chose_blt_s210": [
+        "Tsinghua University",
+        "Zhejiang University",
+        "Shanghai Jiao Tong University",
+        "Northwestern Polytechnical University",
+        "Beijing University of Aeronautics and Astronautics",
+        "Nanjing University of Science and Technology",
+        "Jilin University",
+        "Harbin University of Technology"
+      ],
+      "certifications_and_standards": [
+        "CE Safety Certification",
+        "Laser FDA Safety Certification",
+        "ATEX (Explosion Proof) Registration",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "company_name": "Bright Laser Technologies-BLT",
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86(029)-8848 5673-Turn8016",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/",
+        "social_media": {
+          "linkedin": "Bright Laser Technologies-BLT",
+          "youtube": "Bright Laser Technologies",
+          "tiktok": "@brightlaser.technologies"
+        }
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2)Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of tri-color indicator and the height is remarked separately. The dimension is only theoretical, the actual data is affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S210_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-A160",
+      "stock_code": "688333.SH",
+      "tagline": "小型零件批量生产平台 (Small Batch Production Platform for Small Parts)",
+      "keywords": ["BLT-A160", "A160", "small parts printer", "batch production", "dual laser", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "economic production"],
+      "key_features": [
+        {
+          "icon_description": "高效生产 (High Efficiency Production)",
+          "detailed_description": "双光束效率加倍 (Double Beam Efficiency)",
+          "benefit": "Increases production throughput with dual laser system, reducing build time."
+        },
+        {
+          "icon_description": "可选配无螺钉基材 (Optional Screwless Substrate)",
+          "detailed_description": "快速装卸更省时 (Faster Loading and Unloading)",
+          "benefit": "Streamlines workflow and reduces setup time with quick substrate change capability."
+        },
+        {
+          "icon_description": "变速同步铺粉 (Variable Speed Synchronous Powder Spreading)",
+          "detailed_description": "设备利用最大化 (Maximize Equipment Utilization)",
+          "benefit": "Optimizes powder usage and layer deposition for efficient material consumption."
+        },
+        {
+          "icon_description": "可升级反吹过滤器 (Upgradable Back-blowing Filter)",
+          "detailed_description": "连续工作不间断生产 (Continuous Uninterrupted Production)",
+          "benefit": "Enables extended operation with a filter system designed for continuous use."
+        },
+        {
+          "icon_description": "智能软件 (Intelligent Software)",
+          "detailed_description": "实时监控可追溯 (Real-time Monitoring and Traceability)",
+          "benefit": "Offers advanced software for process control, monitoring, and build data tracking."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Titanium Alloy",
+            "Cobalt Chromium Alloy",
+            "Stainless Steel"
+          ],
+          "superalloys": [
+            "High Temperature Alloy (高温合金)"
+          ],
+          "steels": []
+        },
+        "build_dimension": {
+          "width_mm": 160,
+          "depth_mm": 160,
+          "height_mm": 200,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 5120,
+        "laser_power": [
+          {
+            "value": 200,
+            "unit": "W",
+            "notes": "Single Laser Configuration"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "notes": "Single Laser Configuration"
+          },
+          {
+            "value": 200,
+            "unit": "W",
+            "count": 2,
+            "notes": "Dual Laser Configuration"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 2,
+            "notes": "Dual Laser Configuration"
+          }
+        ],
+        "num_lasers": 2,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "building_speed": [
+          {
+            "value": 15,
+            "unit": "cm³/h",
+            "notes": "Lower Speed"
+          },
+          {
+            "value": 30,
+            "unit": "cm³/h",
+            "notes": "Higher Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 200,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C / RT (Room Temperature)"
+        },
+        "optics_system": "F-0 Lens (F-Zero Lens)",
+        "beam_quality": "M²<1.1",
+        "powder_delivery_system": "Variable Speed Synchronous Powder Spreading",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar/N₂",
+        "power_consumption": {
+          "max_kw": 7,
+          "unit": "kW",
+          "less_than_or_equal": true,
+          "base_config_max_kw": 5.5,
+          "base_config_less_than_or_equal": true
+        },
+        "supply_voltage": "AC220V 1Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 1450,
+          "depth_mm": 1050,
+          "height_mm": 2150,
+          "unit": "mm"
+        },
+        "tri_color_indicator_height": {
+          "value": 380,
+          "unit": "mm",
+          "approximate": true
+        },
+        "machine_weight": {
+          "value": 1100,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS",
+          "Dental Data Processing Software (齿科专用数据处理软件)"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Terracotta Army Figurine Ornament (兵马俑摆件)"
+        },
+        {
+          "application_name": "Bottle Opener (启瓶器)"
+        },
+        {
+          "application_name": "Signature Pen (签字笔)"
+        },
+        {
+          "application_name": "Cobalt-Chromium Dental Bracket (钴铬合金口腔支架)"
+        },
+        {
+          "application_name": "Cobalt-Chromium Dental Crown (钴铬合金牙冠)"
+        },
+        {
+          "application_name": "Titanium Dental Bracket (钛合金口腔支架)"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard (标配)",
+          "modules": [
+            "Fault Grading Diagnosis (故障分级诊断)",
+            "Multiple Safety Interlock Mechanisms (多重安全互锁机制)",
+            "Real-time Status Monitoring (实时状态监控)"
+          ]
+        },
+        {
+          "module_type": "Optional (选配)",
+          "modules": [
+            "BLT-MES System"
+          ]
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper (刮刀)",
+          "Substrate (基材)",
+          "Filter Element (滤芯)"
+        ],
+        "powders": {
+          "metals": [
+            "Titanium Alloy",
+            "Cobalt Chromium Alloy",
+            "High Temperature Alloy",
+            "Stainless Steel"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "CE Safety Certification (CE安全认证)",
+        "FDA Laser Safety Registration and Safety Certification (FDA激光安全注册安全认证)",
+        "ATEX Explosion-proof Certification for the Whole Machine (ATEX整机防爆认证)",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "address": "No. 1000 Shanglinyuan Seventh Road, High-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000 (陕西省西安市高新区上林苑七路1000号)",
+        "phone": "400-863-8885",
+        "website": "www.xa-blt.com",
+        "email": "sales@xa-blt.com"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness. (不包括基材厚度;)",
+        "(2)Related to part shape, size, material and parameters. (与零件的形状、尺寸、材料和参数有关;)",
+        "(3)Machine dimension excludes tri-color indicator length, indicator length noted separately. Machine dimension is theoretical, actual dimension affected by configuration, subject to on-site installation. (设备尺寸不含三色指示灯长度,指示灯长度另外备注。设备外形数据为理论尺寸,实际设备尺寸受配置影响,\n以现场装机为准。)",
+        "*Data under BLT working conditions, subject to actual sales products. (*该数据为铂力特工况下数据,以实际销售的产品为准。)"
+      ],
+      "pdf_filename": "BLT-A160_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-A300/A320",
+      "stock_code": "688333.SH",
+      "tagline": "Continuous and Economic Production",
+      "keywords": ["BLT-A300", "BLT-A320", "A300", "A320", "continuous production", "economic production", "large build volume", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "glove box", "automated powder handling"],
+      "key_features": [
+        {
+          "icon_description": "Variable Speed Adaptive Powder Spreading",
+          "detailed_description": "Intelligent powder saving & printing efficiency UPPING",
+          "benefit": "Maximizes powder utilization and print speed through intelligent powder layer control."
+        },
+        {
+          "icon_description": "Powder-worker Separated in the Whole Process",
+          "detailed_description": "Equipped with industrial glove box Guarantee personnel occupational health",
+          "benefit": "Ensures operator safety and prevents powder exposure with a fully enclosed glove box system."
+        },
+        {
+          "icon_description": "Saving Powder and Gas More Economical",
+          "detailed_description": "Significantly lower operating costs",
+          "benefit": "Reduces operational expenses through efficient powder and inert gas management."
+        },
+        {
+          "icon_description": "Long-life Filtration System",
+          "detailed_description": "Safety & Longevity double guarantee",
+          "benefit": "Minimizes maintenance and ensures consistent performance with a durable filtration system."
+        },
+        {
+          "icon_description": "BLT-MES System Upgraded Available",
+          "detailed_description": "Centralized management Intelligent interconnection",
+          "benefit": "Enables integrated factory management and data sharing through BLT's MES system."
+        },
+        {
+          "icon_description": "Automatic Grafting Upgraded Available",
+          "detailed_description": "Full substrate efficient processing Guarantee high precision",
+          "benefit": "Increases throughput and reduces manual intervention with automated substrate handling."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Copper Alloy"
+          ],
+          "superalloys": [
+            "Superalloy",
+            "Cobalt-chromium Alloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ],
+          "other_alloys": [
+            "Titanium Alloy"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 250,
+          "depth_mm": 250,
+          "height_mm": 300,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 18750,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "config": "Single Laser"
+          },
+          {
+            "value": 1000,
+            "unit": "W",
+            "config": "Single Laser"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 2,
+            "config": "Dual Laser"
+          },
+          {
+            "value": 1000,
+            "unit": "W",
+            "count": 2,
+            "config": "Dual Laser"
+          }
+        ],
+        "num_lasers": 2,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "building_speed": [
+          {
+            "value": 25,
+            "unit": "cm³/h",
+            "config": "Lower Speed"
+          },
+          {
+            "value": 50,
+            "unit": "cm³/h",
+            "config": "Higher Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 200,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "beam_quality": "M²<1.1",
+        "optics_system": "F-theta Lens",
+        "recoating": "Single Variable Speed Recoating System",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar/N₂",
+        "power_requirement": [
+          {
+            "max_kw": 11,
+            "unit": "kW",
+            "config": "Lower Power"
+          },
+          {
+            "max_kw": 12.5,
+            "unit": "kW",
+            "config": "Higher Power"
+          }
+        ],
+        "max_power_consumption_kw": 12.5,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 2800,
+          "depth_mm": 1200,
+          "height_mm": 2200,
+          "unit": "mm"
+        },
+        "tri_color_indicator_height": {
+          "value": 400,
+          "unit": "mm",
+          "approximate": true
+        },
+        "machine_weight": {
+          "value": 2200,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Full Substrate Heating Nozzle"
+        },
+        {
+          "application_name": "Full Substrate Tire Mold Insert"
+        },
+        {
+          "application_name": "Full Substrate Spinal Fusion Apparatus (Exhibit)"
+        },
+        {
+          "application_name": "Full Substrate Acetabular Cup (Exhibit)"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Real-time Status Monitoring",
+            "Process Data Traceability"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "Automatic Grafting",
+            "BLT-MES System",
+            "Recoating Detection",
+            "Smaller Research Platform Module"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL200"
+        },
+        {
+          "solution_name": "Depowdering Machine",
+          "model": "BLT-QF400"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Copper Alloy"
+          ],
+          "superalloys": [
+            "Cobalt-chromium Alloy",
+            "Superalloy"
+          ],
+          "steels": [
+            "High-strength Steel",
+            "Tool Steel",
+            "Stainless Steel"
+          ],
+          "other_alloys": [
+            "Titanium Alloy"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "CE Safety Certification",
+        "Laser FDA Safety Registration",
+        "ATEX (Explosion Proof) Certification",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "linkedin": "Bright Laser Technologies-BLT",
+        "youtube": "Bright Laser Technologies",
+        "tiktok": "@brightlaser.technologies",
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2) Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of tri-color indicator and the height is remarked separately. The dimension is\nonly theoretical, the actual data is affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-A300_A320_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S310/S320",
+      "stock_code": "688333.SH",
+      "tagline": "Leading the Industry, All-around Flagship",
+      "keywords": ["BLT-S310", "BLT-S320", "S310", "S320", "flagship printer", "aerospace quality", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "automated powder circulation", "large build height"],
+      "key_features": [
+        {
+          "icon_description": "Batch Application Verification",
+          "detailed_description": "Maturity and stability of machine operation",
+          "benefit": "Proven technology for reliable and consistent batch production."
+        },
+        {
+          "icon_description": "Two-way Intelligent Powder Spreading",
+          "detailed_description": "Efficiency increases by 60% Intelligent powder-saving",
+          "benefit": "Reduces powder waste and improves efficiency with advanced powder handling."
+        },
+        {
+          "icon_description": "Long-life Filtration System",
+          "detailed_description": "Safety & Longevity double guarantee",
+          "benefit": "Ensures safe and prolonged operation with a robust and long-lasting filtration system."
+        },
+        {
+          "icon_description": "Self-adapting Powder Spreading Correction",
+          "detailed_description": "Deep learning technology makes printing smarter",
+          "benefit": "Automates process optimization and improves print quality through AI-powered powder control."
+        },
+        {
+          "icon_description": "Automatic Circulation of Powder",
+          "detailed_description": "Powder closed-circulation processing system Automatic recycling sieving and supply",
+          "benefit": "Enables continuous operation and minimizes powder handling with automated powder system."
+        },
+        {
+          "icon_description": "3D Reconstruction",
+          "detailed_description": "Building visualization is easy to quality traceability",
+          "benefit": "Facilitates quality control and build analysis with real-time 3D visualization."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Copper Alloy"
+          ],
+          "superalloys": [
+            "Superalloy",
+            "Cobalt-chromium Alloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ],
+          "other_alloys": [
+            "Titanium Alloy"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 250,
+          "depth_mm": 250,
+          "height_mm": 400,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 25000,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "config": "Single Laser"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 2,
+            "config": "Dual Laser"
+          }
+        ],
+        "num_lasers": 2,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "building_speed": [
+          {
+            "value": 25,
+            "unit": "cm³/h",
+            "config": "Single Laser Speed"
+          },
+          {
+            "value": 50,
+            "unit": "cm³/h",
+            "config": "Dual Laser Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 200,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "beam_quality": "M²<1.1",
+        "optics_system": "F-theta Lens",
+        "recoating": "Single/Double-direction",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar/N₂",
+        "power_requirement": [
+          {
+            "max_kw": 8,
+            "unit": "kW",
+            "config": "Lower Power"
+          },
+          {
+            "max_kw": 11,
+            "unit": "kW",
+            "config": "Higher Power"
+          }
+        ],
+        "max_power_consumption_kw": 11,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 3400,
+          "depth_mm": 1200,
+          "height_mm": 2200,
+          "unit": "mm"
+        },
+        "tri_color_indicator_height": {
+          "value": 410,
+          "unit": "mm",
+          "approximate": true
+        },
+        "machine_weight": {
+          "value": 2800,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Spinal Fusion Apparatus (Exhibit)"
+        },
+        {
+          "application_name": "Exhaust Nozzle"
+        },
+        {
+          "application_name": "Impeller Disk"
+        },
+        {
+          "application_name": "Aviation Joint"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Real-time Status Monitoring",
+            "Process Data Traceability",
+            "Recoating Detection",
+            "3D Reconstruction"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "Automatic Grafting",
+            "BLT-MCS Connect",
+            "BLT-MES System"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL200"
+        },
+        {
+          "solution_name": "Powder Adding Machine",
+          "model": "BLT-GF500"
+        },
+        {
+          "solution_name": "Depowdering Machine",
+          "model": "BLT-QF400"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Copper Alloy"
+          ],
+          "superalloys": [
+            "Cobalt-chromium Alloy",
+            "Superalloy"
+          ],
+          "steels": [
+            "High-strength Steel",
+            "Tool Steel",
+            "Stainless Steel"
+          ],
+          "other_alloys": [
+            "Titanium Alloy"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "CE Safety Certification",
+        "Laser FDA Safety Registration",
+        "ATEX (Explosion Proof) Certification",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "linkedin": "Bright Laser Technologies-BLT",
+        "youtube": "Bright Laser Technologies",
+        "tiktok": "@brightlaser.technologies",
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2)Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of tri-color indicator and the height is remarked separately. The dimension is\nonly theoretical, the actual data is affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S310_S320_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S1000",
+      "stock_code": "688333.SH",
+      "tagline": "Constantly Innovating in Metal AM",
+      "keywords": ["BLT-S1000", "S1000", "large format printer", "meter-sized parts", "multi-laser system", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "large build volume"],
+      "key_features": [
+        {
+          "icon_description": "Large Build Dimension",
+          "detailed_description": "Precision forming of meter-sized parts",
+          "benefit": "Enables manufacturing of very large metal components in a single build."
+        },
+        {
+          "icon_description": "Multi-beam Lasers Splicing",
+          "detailed_description": "The building quality of each area is consistent",
+          "benefit": "Maintains uniform part quality across the large build area using laser beam management."
+        },
+        {
+          "icon_description": "Hard Scraper",
+          "detailed_description": "Fixed layer thickness Adhere to the quality",
+          "benefit": "Ensures consistent layer thickness and part accuracy with a robust scraper system."
+        },
+        {
+          "icon_description": "Long-life Filtration System",
+          "detailed_description": "Automatic blowback cleaning Long filter life",
+          "benefit": "Reduces downtime and maintenance with a self-cleaning, long-lasting filter system."
+        },
+        {
+          "icon_description": "Self-adapting Powder Spreading Correction",
+          "detailed_description": "Deep learning technology makes printing smarter",
+          "benefit": "Improves print quality and reduces defects through AI-driven powder layer optimization."
+        },
+        {
+          "icon_description": "3D Reconstruction",
+          "detailed_description": "Building visualization is easy to quality traceability",
+          "benefit": "Provides real-time build visualization for process monitoring and quality assurance."
+        },
+        {
+          "icon_description": "Automatic Circulation of Powder",
+          "detailed_description": "Powder closed-circulation processing system Automatic recycling sieving and supply",
+          "benefit": "Automates powder handling for continuous operation and efficient material usage."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 1200,
+          "depth_mm": 600,
+          "height_mm": 1500,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 1080000,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 8,
+            "config": "8 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 10,
+            "config": "10 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 12,
+            "config": "12 Lasers"
+          }
+        ],
+        "num_lasers": 12,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "beam_quality": "M²<1.1",
+        "optics_system": "F-theta Lens",
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "building_speed": [
+          {
+            "value": 200,
+            "unit": "cm³/h",
+            "config": "Lower Speed"
+          },
+          {
+            "value": 250,
+            "unit": "cm³/h",
+            "config": "Medium Speed"
+          },
+          {
+            "value": 300,
+            "unit": "cm³/h",
+            "config": "Higher Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 100,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "recoating": "Single/Double-direction",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar",
+        "power_requirement": [
+          {
+            "max_kw": 30,
+            "unit": "kW",
+            "config": "8 Lasers"
+          },
+          {
+            "max_kw": 33,
+            "unit": "kW",
+            "config": "10 Lasers"
+          },
+          {
+            "max_kw": 35,
+            "unit": "kW",
+            "config": "12 Lasers"
+          }
+        ],
+        "max_power_consumption_kw": 35,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 10200,
+          "depth_mm": 6800,
+          "height_mm": 5190,
+          "unit": "mm"
+        },
+        "machine_weight": {
+          "value": 34000,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Array Panel",
+          "application_details": {
+            "material": "Aluminum Alloy",
+            "dimension": {
+              "width_mm": 1125,
+              "depth_mm": 1300,
+              "height_mm": 20,
+              "unit": "mm"
+            },
+            "weight": {
+              "value": 3.5,
+              "unit": "kg"
+            },
+            "build_time": {
+              "value": 50,
+              "unit": "hours"
+            },
+            "description": "This part is an antenna array panel structure in the satellite application, which adopts a lattice structure for lightweight design, which can achieve a better high-rigidity and light-weight effect than the traditional honeycomb panel structure."
+          }
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Process Data Traceability",
+            "Height Self-checking on Parts",
+            "Recoating Detection",
+            "3D Reconstruction"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "BLT-MCS Connect",
+            "BLT-MES System"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL400"
+        },
+        {
+          "solution_name": "Powder Adding Machine",
+          "model": "BLT-GF500"
+        },
+        {
+          "solution_name": "Powder Circulation System",
+          "model": "BLT-XH500"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy",
+            "Tool Steel"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "linkedin": "Bright Laser Technologies-BLT",
+        "youtube": "Bright Laser Technologies",
+        "tiktok": "@brightlaser.technologies",
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2)Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of the maintenance guardrail. The dimension is only theoretical, the actual data\nis affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S1000_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S450",
+      "stock_code": "688333.SH",
+      "tagline": "Optimized Upgrade Solutions, Reduce Costs and Increase Efficiency",
+      "keywords": ["BLT-S450", "S450", "production printer", "multi-laser", "cost-effective", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "automated powder circulation", "large build volume"],
+      "key_features": [
+        {
+          "icon_description": "Mass Application Validation",
+          "detailed_description": "Iterative optimization of mature product Solution is constantly evolving",
+          "benefit": "Continuously improved and optimized for reliable mass production applications."
+        },
+        {
+          "icon_description": "Multi-laser Efficient Forming",
+          "detailed_description": "A variety of laser quantities are available Efficient and dynamic recoating in double directions",
+          "benefit": "Increases productivity and throughput with multi-laser configurations and bi-directional recoating."
+        },
+        {
+          "icon_description": "Self-adapting Powder Spreading Correction",
+          "detailed_description": "Deep learning technology Automatic detection and correction of powder deficiency",
+          "benefit": "Maintains consistent powder layers and reduces defects through AI-powered correction."
+        },
+        {
+          "icon_description": "Long-life Filtration System",
+          "detailed_description": "Automatic backblow cleaning Long-life filter ensures continuous use",
+          "benefit": "Ensures extended uptime and reduces maintenance with a self-cleaning, long-life filter system."
+        },
+        {
+          "icon_description": "Automatic Circulation of Powder",
+          "detailed_description": "Powder closed-circulation processing system Automatic recycling sieving and supply",
+          "benefit": "Automates powder management, reduces waste, and enables continuous operation."
+        },
+        {
+          "icon_description": "Optimization Iteration of Mature Platform",
+          "detailed_description": "Safe and Economical Production Save gas and powder to enhance economical Inert gas protection makes powder collection safer",
+          "benefit": "Reduces operational costs through efficient resource utilization and enhanced safety features."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 450,
+          "depth_mm": 450,
+          "height_mm": 500,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 101250,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 4,
+            "config": "4 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 6,
+            "config": "6 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 8,
+            "config": "8 Lasers"
+          }
+        ],
+        "num_lasers": 8,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "beam_quality": "M²≤1.1",
+        "optics_system": "F-theta Lens",
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "building_speed": [
+          {
+            "value": 100,
+            "unit": "cm³/h",
+            "config": "Lower Speed"
+          },
+          {
+            "value": 150,
+            "unit": "cm³/h",
+            "config": "Medium Speed"
+          },
+          {
+            "value": 200,
+            "unit": "cm³/h",
+            "config": "Higher Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 100,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "recoating": "Single/Double Recoating System",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar",
+        "power_requirement": [
+          {
+            "max_kw": 32,
+            "unit": "kW",
+            "config": "4 Lasers"
+          },
+          {
+            "max_kw": 34,
+            "unit": "kW",
+            "config": "6 Lasers"
+          },
+          {
+            "max_kw": 36,
+            "unit": "kW",
+            "config": "8 Lasers"
+          }
+        ],
+        "max_power_consumption_kw": 36,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 3820,
+          "depth_mm": 2920,
+          "height_mm": 2780,
+          "unit": "mm"
+        },
+        "machine_weight": {
+          "value": 7500,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Full Substrate Manifold"
+        },
+        {
+          "application_name": "Full Substrate Water-cooled Motor Housing"
+        },
+        {
+          "application_name": "Central Gear Drive Housing"
+        },
+        {
+          "application_name": "Blow Molding Bottle Mold"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Process Data Traceability",
+            "Recoating Detection"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "Automatic Grafting",
+            "3D Reconstruction",
+            "BLT-MCS Connect"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL200"
+        },
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Adding Machine",
+          "model": "BLT-GF500"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy",
+            "Cobalt Chromium Alloy"
+          ],
+          "steels": [
+            "High-strength Steel",
+            "Tool Steel",
+            "Stainless Steel"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2)Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of tri-color indicator.\nThe dimension is only theoretical, the actual data is affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S450_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S400",
+      "stock_code": "688333.SH",
+      "tagline": "Batch Production, “Smart” Manufacturing Upgraded",
+      "keywords": ["BLT-S400", "S400", "batch printer", "multi-laser optional", "smart manufacturing", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "automated powder circulation", "scalable production"],
+      "key_features": [
+        {
+          "icon_description": "Batch Application Verification",
+          "detailed_description": "Maturity and stability of machine operation",
+          "benefit": "Ensures reliable performance for consistent batch production runs."
+        },
+        {
+          "icon_description": "Multiple Lasers are Optional",
+          "detailed_description": "Two-way Intelligent Powder Feeding Efficiency increases dramatically",
+          "benefit": "Scalable production capacity with optional multi-laser configurations for increased throughput."
+        },
+        {
+          "icon_description": "Long-life Filtration System",
+          "detailed_description": "Safety & Longevity double guarantee",
+          "benefit": "Maintains a clean and safe operating environment with a long-lasting, reliable filtration system."
+        },
+        {
+          "icon_description": "Self-adapting Powder Spreading Correction",
+          "detailed_description": "Deep learning technology makes printing smarter",
+          "benefit": "Optimizes powder layer quality automatically for improved print consistency and reduced defects."
+        },
+        {
+          "icon_description": "Automatic Circulation of Powder",
+          "detailed_description": "Powder closed-circulation processing system Automatic recycling sieving and supply",
+          "benefit": "Automates powder handling, reduces material waste, and enables continuous printing."
+        },
+        {
+          "icon_description": "3D Reconstruction",
+          "detailed_description": "Building visualization is easy to quality traceability",
+          "benefit": "Facilitates quality control and process monitoring with real-time build visualization."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Copper Alloy"
+          ],
+          "superalloys": [
+            "Superalloy",
+            "Cobalt Chromium Alloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ],
+          "other_alloys": [
+            "Titanium Alloy"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 400,
+          "depth_mm": 300,
+          "height_mm": 400,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 48000,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 2,
+            "config": "2 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 3,
+            "config": "3 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 5,
+            "config": "5 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 6,
+            "config": "6 Lasers"
+          }
+        ],
+        "num_lasers": 6,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "building_speed": [
+          {
+            "value": 50,
+            "unit": "cm³/h",
+            "config": "Lowest Speed"
+          },
+          {
+            "value": 75,
+            "unit": "cm³/h",
+            "config": "Lower Medium Speed"
+          },
+          {
+            "value": 125,
+            "unit": "cm³/h",
+            "config": "Upper Medium Speed"
+          },
+          {
+            "value": 150,
+            "unit": "cm³/h",
+            "config": "Highest Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 200,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "beam_quality": "M²<1.1",
+        "optics_system": "F-theta Lens",
+        "recoating": "Single/Double-direction",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar/N₂",
+        "power_requirement": [
+          {
+            "max_kw": 19,
+            "unit": "kW",
+            "config": "2 Lasers"
+          },
+          {
+            "max_kw": 20,
+            "unit": "kW",
+            "config": "3 Lasers"
+          },
+          {
+            "max_kw": 25,
+            "unit": "kW",
+            "config": "5 Lasers"
+          },
+          {
+            "max_kw": 26,
+            "unit": "kW",
+            "config": "6 Lasers"
+          }
+        ],
+        "max_power_consumption_kw": 26,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 3900,
+          "depth_mm": 1200,
+          "height_mm": 2200,
+          "unit": "mm"
+        },
+        "tri_color_indicator_height": {
+          "value": 410,
+          "unit": "mm",
+          "approximate": true
+        },
+        "machine_weight": {
+          "value": 3200,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Full Substrate Swirler"
+        },
+        {
+          "application_name": "Full Substrate Steel Sheet"
+        },
+        {
+          "application_name": "Full Chamber Support Frame"
+        },
+        {
+          "application_name": "Full Chamber Support"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Real-time Status Monitoring",
+            "Process Data Traceability"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "BLT-MCS Connect",
+            "BLT-MES System",
+            "Automatic Grafting",
+            "Recoating Detection",
+            "3D Reconstruction"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL200"
+        },
+        {
+          "solution_name": "Powder Adding Machine",
+          "model": "BLT-GF500"
+        },
+        {
+          "solution_name": "Depowdering Machine",
+          "model": "BLT-QF400"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Copper Alloy"
+          ],
+          "superalloys": [
+            "Superalloy",
+            "Cobalt Chromium Alloy"
+          ],
+          "steels": [
+            "High-strength Steel",
+            "Tool Steel",
+            "Stainless Steel"
+          ],
+          "other_alloys": [
+            "Titanium Alloy"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "linkedin": "Bright Laser Technologies-BLT",
+        "youtube": "Bright Laser Technologies",
+        "tiktok": "@brightlaser.technologies",
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2) Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of tri-color indicator and the height is remarked separately. The dimension is\nonly theoretical, the actual data is affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S400_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S815",
+      "stock_code": "688333.SH",
+      "tagline": "“Manufacturing” with Sincerity",
+      "keywords": ["BLT-S815", "S815", "large format printer", "high throughput", "multi-laser system", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "automated powder handling", "large build volume"],
+      "key_features": [
+        {
+          "icon_description": "Multi-beam Lasers Splicing",
+          "detailed_description": "The building quality of each area is consistent",
+          "benefit": "Ensures uniform quality across large parts with advanced laser beam management."
+        },
+        {
+          "icon_description": "Long-term Filtration System",
+          "detailed_description": "Automatic blowback cleaning Long filter life",
+          "benefit": "Reduces maintenance and ensures continuous operation with a self-cleaning, durable filter."
+        },
+        {
+          "icon_description": "Self-adapting Powder Spreading Correction",
+          "detailed_description": "Deep learning technology Intelligent powder spreading and correction",
+          "benefit": "Optimizes powder layer quality and reduces defects with AI-driven powder control."
+        },
+        {
+          "icon_description": "More Scanning Strategy",
+          "detailed_description": "Variable overlap position Select different scanning strategy",
+          "benefit": "Provides flexible control over scanning parameters for optimized material properties and surface finish."
+        },
+        {
+          "icon_description": "Automatic Circulation of Powder",
+          "detailed_description": "Powder closed-circulation processing system Automatic recycling sieving and supply",
+          "benefit": "Automates powder handling, reduces waste, and enables continuous production."
+        },
+        {
+          "icon_description": "Safe Handling of Powder",
+          "detailed_description": "Handle full-height parts through pickup cabin with inert gas atmosphere Multi-station for powder cleaning to ensure safety",
+          "benefit": "Ensures safe operator handling of large parts and powder with enclosed and controlled environment."
+        },
+        {
+          "icon_description": "Safe and Continuous Production",
+          "detailed_description": "Easy and quick printing preparation Automatic powder circulation in the printing process cleaning to ensure safety",
+          "benefit": "Streamlines workflow, enhances safety, and maximizes uptime with automated and safe processes."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel"
+          ]
+        },
+        "build_dimension": [
+          {
+            "width_mm": 800,
+            "depth_mm": 800,
+            "height_mm": 1500,
+            "unit": "mm",
+            "config": "Larger Build Volume"
+          },
+          {
+            "width_mm": 650,
+            "depth_mm": 650,
+            "height_mm": 1300,
+            "unit": "mm",
+            "config": "Smaller Build Volume"
+          }
+        ],
+        "build_volume_cm3": 960000,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 6,
+            "config": "6 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 8,
+            "config": "8 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 10,
+            "config": "10 Lasers"
+          }
+        ],
+        "num_lasers": 10,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "beam_quality": "M²<1.1",
+        "optics_system": "F-theta Lens",
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "building_speed": [
+          {
+            "value": 150,
+            "unit": "cm³/h",
+            "config": "Lower Speed"
+          },
+          {
+            "value": 200,
+            "unit": "cm³/h",
+            "config": "Medium Speed"
+          },
+          {
+            "value": 250,
+            "unit": "cm³/h",
+            "config": "Higher Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 100,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "recoating": "Single/Double-direction",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar",
+        "power_requirement": [
+          {
+            "max_kw": 25,
+            "unit": "kW",
+            "config": "6 Lasers"
+          },
+          {
+            "max_kw": 28,
+            "unit": "kW",
+            "config": "8 Lasers"
+          },
+          {
+            "max_kw": 31,
+            "unit": "kW",
+            "config": "10 Lasers"
+          }
+        ],
+        "max_power_consumption_kw": 31,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 7298,
+          "depth_mm": 5030,
+          "height_mm": 4930,
+          "unit": "mm"
+        },
+        "machine_weight": {
+          "value": 27000,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Rear Subframe",
+          "application_details": {
+            "material": "Aluminum alloy",
+            "dimension": {
+              "width_mm": 1230,
+              "depth_mm": 845,
+              "height_mm": 253,
+              "unit": "mm"
+            },
+            "weight": null,
+            "build_time": null,
+            "description": "The part utilizes Bi-directional Evolutionary Structure Optimization (BESO) to achieve a great topological structure. The final part adopts a hollow lattice fill structure with a wall thickness of 3.5mm, which reduces the weight by 20% compared to the original hollow die-casting aluminum alloy solution, with improvements in both appearance and performance."
+          }
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Process Data Traceability",
+            "Equipment Status Self-test",
+            "Height Self-checking on Parts",
+            "Recoating Detection",
+            "3D Reconstruction"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "BLT-MCS Connect",
+            "BLT-MES System"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL400"
+        },
+        {
+          "solution_name": "Powder Adding Machine",
+          "model": "BLT-GF500"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "linkedin": "Bright Laser Technologies-BLT",
+        "youtube": "Bright Laser Technologies",
+        "tiktok": "@brightlaser.technologies",
+        "address": "No. 1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Excluding substrate thickness.",
+        "(2) Dependent on part geometry, material and parameter set used.",
+        "(3)The dimension does not include the height of the maintenance guardrail. The dimension is only theoretical, the actual data\nis affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S815_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S600",
+      "stock_code": "688333.SH",
+      "tagline": "A Outstanding System of Ten Years Hard Work",
+      "keywords": ["BLT-S600", "S600", "large format printer", "high volume production", "multi-laser system", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "automated powder handling", "large build volume"],
+      "key_features": [
+        {
+          "icon_description": "Mass Application Validation",
+          "detailed_description": "Iterative optimization of mature product 66% increase in build dimension",
+          "benefit": "Extensive validation and continuous improvement for reliable mass manufacturing."
+        },
+        {
+          "icon_description": "Multi-laser Efficient Forming",
+          "detailed_description": "A variety of laser quantities are available Efficient and dynamic recoating in double directions",
+          "benefit": "Increases production speed and throughput with multi-laser configurations and fast recoating."
+        },
+        {
+          "icon_description": "Self-adapting Powder Spreading Correction",
+          "detailed_description": "Deep learning technology Automatic detection and correction of powder deficiency",
+          "benefit": "Ensures consistent layer quality and reduces defects with AI-driven powder management."
+        },
+        {
+          "icon_description": "Long-life Filtration System",
+          "detailed_description": "Automatic backblow cleaning Long-life filter ensures continuous use",
+          "benefit": "Minimizes downtime and maintenance with a robust and self-cleaning filtration system."
+        },
+        {
+          "icon_description": "Automatic Circulation of Powder",
+          "detailed_description": "Powder closed-circulation processing system Automatic recycling sieving and supply",
+          "benefit": "Automates powder handling for continuous operation and efficient material utilization."
+        },
+        {
+          "icon_description": "Safe and Economical Production",
+          "detailed_description": "Save gas and powder to enhance economical Inert gas protection makes powder collection safer",
+          "benefit": "Reduces operating costs through efficient resource management and enhanced safety protocols."
+        }
+      ],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ]
+        },
+        "build_dimension": {
+          "width_mm": 650,
+          "depth_mm": 650,
+          "height_mm": 850,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 362625,
+        "laser_power": [
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 4,
+            "config": "4 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 6,
+            "config": "6 Lasers"
+          },
+          {
+            "value": 500,
+            "unit": "W",
+            "count": 8,
+            "config": "8 Lasers"
+          }
+        ],
+        "num_lasers": 8,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "beam_quality": "M²≤1.1",
+        "optics_system": "F-theta Lens",
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "building_speed": [
+          {
+            "value": 100,
+            "unit": "cm³/h",
+            "config": "Lower Speed"
+          },
+          {
+            "value": 150,
+            "unit": "cm³/h",
+            "config": "Medium Speed"
+          },
+          {
+            "value": 200,
+            "unit": "cm³/h",
+            "config": "Higher Speed"
+          }
+        ],
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 100,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "recoating": "Single/Double-direction",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar",
+        "power_requirement": [
+          {
+            "max_kw": 24,
+            "unit": "kW",
+            "config": "4 Lasers"
+          },
+          {
+            "max_kw": 30,
+            "unit": "kW",
+            "config": "6 Lasers"
+          },
+          {
+            "max_kw": 33,
+            "unit": "kW",
+            "config": "8 Lasers"
+          }
+        ],
+        "max_power_consumption_kw": 33,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 5250,
+          "depth_mm": 4300,
+          "height_mm": 4300,
+          "unit": "mm"
+        },
+        "machine_weight": {
+          "value": 14350,
+          "unit": "kg",
+          "approximate": true
+        },
+        "software": [
+          "Magics",
+          "BLT-BP",
+          "BLT-MCS"
+        ]
+      },
+      "application_cases": [
+        {
+          "application_name": "Aero-engine Casing with Nickel Base Superalloy"
+        },
+        {
+          "application_name": "Wheel"
+        },
+        {
+          "application_name": "Hydrazine Bottle Adapter"
+        },
+        {
+          "application_name": "Blade Ring"
+        }
+      ],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Process Data Traceability",
+            "Recoating Detection",
+            "3D Reconstruction"
+          ]
+        },
+        {
+          "module_type": "Optional Functions",
+          "modules": [
+            "BLT-MCS Connect"
+          ]
+        }
+      ],
+      "automation_solutions": [
+        {
+          "solution_name": "Powder Sieving Machine",
+          "model": "BLT-SF400"
+        },
+        {
+          "solution_name": "Powder Collection Machine",
+          "model": "BLT-WL400"
+        },
+        {
+          "solution_name": "Powder Adding Machine",
+          "model": "BLT-GF500"
+        },
+        {
+          "solution_name": "Powder Circulation System",
+          "model": "BLT-XH300"
+        }
+      ],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper/Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy"
+          ],
+          "superalloys": [
+            "Superalloy"
+          ],
+          "steels": [
+            "Stainless Steel",
+            "High-strength Steel",
+            "Tool Steel"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1)Including 100mm thickness of substrate.",
+        "(2) Dependent on part geometry, material and parameter set used.",
+        "(3)The height does not include the height of the maintenance guardrail. The dimension is only theoretical, the actual data\nis affected by the configuration, subject to the installation.",
+        "*The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S600_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S825",
+      "stock_code": "688333.SH",
+      "tagline": "光曜九霄 折桂登高 (Nine Heavens Shine, Laurel in Hand - Reach New Heights)",
+      "keywords": ["BLT-S825", "S825", "extra large format printer", "tall build volume", "multi-laser system", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "automated powder circulation", "high build height"],
+      "key_features": [],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Titanium Alloy",
+            "Aluminum Alloy",
+            "High-strength Steel",
+            "Stainless Steel",
+            "High Temperature Alloy",
+            "Cobalt Chromium Alloy"
+          ],
+          "superalloys": [],
+          "steels": []
+        },
+        "build_dimension": {
+          "width_mm": 850,
+          "depth_mm": 850,
+          "height_mm": 2500,
+          "unit": "mm"
+        },
+        "build_volume_cm3": 1806250,
+        "laser_wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "laser_power": {
+          "value": 500,
+          "unit": "W",
+          "count": 24
+        },
+        "num_lasers": 24,
+        "beam_quality": "M²≤1.1",
+        "optics_system": "F-0 Lens (F-Zero Lens)",
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "building_speed": {
+          "value": 870,
+          "unit": "cm³/h"
+        },
+        "preheating_temperature": {
+          "min_celsius": 20,
+          "max_celsius": 100,
+          "unit": "°C",
+          "base": "RT (Room Temperature) + 20°C"
+        },
+        "powder_delivery_system": "Single/Double Direction Powder Spreading (单/双向铺粉)",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_support": "Ar",
+        "maximum_power_consumption": {
+          "max_kw": 87,
+          "unit": "kW",
+          "less_than_or_equal": true
+        },
+        "max_power_consumption_kw": 87,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 12780,
+          "depth_mm": 6010,
+          "height_mm": 6950,
+          "unit": "mm"
+        },
+        "machine_weight": {
+          "value": 84340,
+          "unit": "kg",
+          "approximate": true
+        }
+      },
+      "application_cases": [],
+      "intelligent_modules": [],
+      "automation_solutions": [],
+      "consumables_and_powders": [],
+      "certifications_and_standards": [
+        "ATEX Explosion-proof Evaluation and CE Certification Requirements (ATEX防爆评估和CE认证要求)",
+        "FDA Laser Safety Registration (FDA激光安全注册)",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "phone": "400-863-8885",
+        "website": "www.xa-blt.com",
+        "email": "sales@xa-blt.com",
+        "address": "No. 1000 Shanglinyuan Seventh Road, High-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000 (陕西省西安市高新区上林苑七路1000号)",
+        "social_media": {
+          "wechat_official_account": "铂力特微信公众号 (BLT Wechat Official Account)",
+          "video_account": "铂力特视频号铂力特微信矩阵号 (BLT Video Account & Wechat Matrix)",
+          "douyin": "抖音 (Douyin - Chinese TikTok)",
+          "marketing_account": "铂力特市场营销 (BLT Marketing)"
+        }
+      },
+      "citations": [
+        "(1)Install 100mm thick substrate for forming size. (安装100mm厚基板后可成形尺寸;)",
+        "(2)Related to part shape, size, material and parameters. (与零件的形状、尺寸、材料和参数有关;)",
+        "(3)Excluding top protection fence height, excluding tri-color light height. (不含顶部防护护栏高度,不含三色灯高度。)",
+        "*Data under BLT working conditions, subject to actual sales products. (*该数据为铂力特工况下数据,以实际销售的产品为准。)",
+        "*This equipment diagram is for illustration only, subject to actual sales products. (*该设备图仅为示意,以实际销售的产品为准。)"
+      ],
+      "pdf_filename": "BLT-S825_datasheet.pdf"
+    },
+    {
+      "model_name": "BLT-S1500",
+      "stock_code": "688333.SH",
+      "tagline": "26 Lasers Ultra-large Format System",
+      "keywords": ["BLT-S1500", "S1500", "ultra large format printer", "jumbo printer", "26 lasers", "metal 3D printer", "powder bed fusion", "DLP", "laser melting", "oversized parts"],
+      "key_features": [],
+      "specifications": {
+        "supporting_materials": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy",
+            "Stainless Steel",
+            "High-strength Steel",
+            "Superalloy"
+          ],
+          "superalloys": [],
+          "steels": []
+        },
+        "build_dimension": {
+          "diameter_mm": 1360,
+          "height_mm": 205,
+          "unit": "mm",
+          "shape": "Cylinder"
+        },
+        "build_volume_cm3": 297678,
+        "wave_length": {
+          "min_nm": 1060,
+          "max_nm": 1080,
+          "unit": "nm"
+        },
+        "laser_power": {
+          "value": 500,
+          "unit": "W",
+          "count": 26
+        },
+        "num_lasers": 26,
+        "beam_quality": "M² ≤ 1.1",
+        "optics_system": "F-theta Lens",
+        "maximum_scanning_speed": {
+          "value": 7,
+          "unit": "m/s"
+        },
+        "layer_thickness": {
+          "min_um": 20,
+          "max_um": 100,
+          "unit": "µm"
+        },
+        "building_speed": {
+          "value": 900,
+          "unit": "cm³/h"
+        },
+        "recoating": "Single/Double-direction",
+        "minimum_oxygen_content": {
+          "value": 100,
+          "unit": "ppm",
+          "less_than_or_equal": true
+        },
+        "gas_requirement": "Ar",
+        "working_argon_consumption": {
+          "min_lmin": 10,
+          "max_lmin": 15,
+          "unit": "L/min",
+          "pressure_mpa": 0.3,
+          "pressure_unit": "MPa"
+        },
+        "maximum_power_requirement": {
+          "value": 90,
+          "unit": "kW"
+        },
+        "max_power_consumption_kw": 90,
+        "supply_voltage": "AC380V 3Ph/N/PE",
+        "machine_dimension": {
+          "width_mm": 11000,
+          "depth_mm": 6500,
+          "height_mm": 6700,
+          "unit": "mm"
+        },
+        "machine_weight": {
+          "value": 75000,
+          "unit": "kg",
+          "approximate": true
+        }
+      },
+      "application_cases": [],
+      "intelligent_modules": [
+        {
+          "module_type": "Standard Functions",
+          "modules": [
+            "Diagnosis Fault-grading",
+            "Process Data Traceability",
+            "Height Self-checking on Parts",
+            "Equipment Status Self-test",
+            "Recoating Detection",
+            "3D Reconstruction"
+          ]
+        }
+      ],
+      "automation_solutions": [],
+      "consumables_and_powders": {
+        "consumables": [
+          "Scraper",
+          "Substrate"
+        ],
+        "powders": {
+          "metals": [
+            "Aluminum Alloy",
+            "Titanium Alloy",
+            "Stainless Steel",
+            "High-strength Steel",
+            "Superalloy"
+          ]
+        }
+      },
+      "certifications_and_standards": [
+        "Laser FDA Safety Registration",
+        "ISO9001:2015",
+        "ISO14001:2015",
+        "ISO45001:2018"
+      ],
+      "contact_information": {
+        "address": "No.1000 Shanglinyuan Seventh Road, Hi-tech Zone, Xi'an City, Shaanxi Province, P.R.China 710000",
+        "phone": "+86-(0)29-88485673 ext. 8016/8017",
+        "email": "sales.global@xa-blt.com",
+        "website": "www.xa-blt.com/en/"
+      },
+      "citations": [
+        "(1) Including 200mm thickness of substrate;",
+        "(2) Dependent on part geometry, material and parameter set used.",
+        "(3) System only, without powder circulation system",
+        "(4) The height does not include the height of the maintenance guardrail.\nThe dimension is only theoretical, the actual data is affected by the\nconfiguration, subject to the installation.",
+        "* The data is under the condition of BLT, and the data is subject to actual sales."
+      ],
+      "pdf_filename": "BLT-S1500_datasheet.pdf"
+    }
+  ]

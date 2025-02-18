@@ -2411,12 +2411,12 @@
           "steels": []
         },
         "build_dimension": {
-          "diameter_mm": 1360,
-          "height_mm": 205,
-          "unit": "mm",
-          "shape": "Cylinder"
+          "width_mm": 1500,
+          "depth_mm": 1500,
+          "height_mm": 1200,
+          "unit": "mm"
         },
-        "build_volume_cm3": 297678,
+        "build_volume_cm3": 2700000,
         "wave_length": {
           "min_nm": 1060,
           "max_nm": 1080,
